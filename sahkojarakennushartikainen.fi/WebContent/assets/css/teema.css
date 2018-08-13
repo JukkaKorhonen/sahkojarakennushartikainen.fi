@@ -1,0 +1,13 @@
+header-ylapalkki {
+    height: 8.5em;
+    top: 1em;
+    display: block;
+    
+    position: absolute;
+    z-index: 99;
+    background: rgba(248, 220, 26, 0.4);
+    background: url(../images/test.png) repeat;
+    width: 100%;
+    max-width: 100em;
+    height: 4rem;
+}
